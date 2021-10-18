@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins'
+}
+
+.logo-container {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-img {
+  max-height: 25px;
+}
+
+body {
+  background: #181818;
+  color: #FFFFFF;
+}
